@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /account/
+Disallow: /search/
+Disallow: /login/
+Disallow: /register/
+
+Allow: /
+
+Sitemap: https://audiotailoc.com/sitemap.xml
